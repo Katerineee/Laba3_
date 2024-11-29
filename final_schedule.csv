@@ -1,0 +1,21 @@
+slot,group_id,subject,lector_id,room_id
+Day_4 Slot_1,1,Subject_1,9,2
+Day_5 Slot_3,5,Subject_5,10,6
+Day_1 Slot_3,2,Subject_3,4,6
+Day_2 Slot_3,1,Subject_4,8,7
+Day_5 Slot_4,2,Subject_2,6,7
+Day_3 Slot_2,1,Subject_4,3,3
+Day_5 Slot_4,3,Subject_3,9,3
+Day_2 Slot_4,2,Subject_6,1,2
+Day_3 Slot_1,1,Subject_1,6,2
+Day_4 Slot_2,3,Subject_5,10,1
+Day_2 Slot_1,4,Subject_4,3,5
+Day_5 Slot_3,3,Subject_3,4,5
+Day_3 Slot_1,3,Subject_4,8,5
+Day_3 Slot_1,3,Subject_1,9,7
+Day_4 Slot_3,4,Subject_6,1,6
+Day_1 Slot_2,2,Subject_8,10,4
+Day_2 Slot_4,4,Subject_8,1,2
+Day_5 Slot_2,5,Subject_2,6,4
+Day_5 Slot_4,3,Subject_3,3,1
+Day_3 Slot_1,5,Subject_3,9,6
